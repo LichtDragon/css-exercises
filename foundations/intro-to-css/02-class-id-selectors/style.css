@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+p {
+    background-color: hsl(350, 87%, 72%);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.size {
+    font-size: 24px;
+}
+
+#two{
+    color: hsl(240, 80%, 60%);
+    font-size: 36px;
+}
+
+#four {
+    font-weight: 700;
+    background-color: hsl(120, 70%, 74%);
+}
